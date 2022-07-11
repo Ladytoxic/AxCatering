@@ -1,0 +1,145 @@
+<!-- Entradas -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Entradas</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let Entradas of entradasList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{Entradas.nombre}}</p> 
+                <p class="fst-italic">{{Entradas.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{Entradas.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+<!-- platos principales -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Platos Principales</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let Principales of principalesList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{Principales.nombre}}</p> 
+                <p class="fst-italic">{{Principales.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{Principales.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<!-- pastas -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Pastas</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let Pastas of pastasList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{Pastas.nombre}}</p> 
+                <p class="fst-italic">{{Pastas.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{Pastas.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<!-- guarniciones -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Guarniciones</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let guarniciones of guarnicionesList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{guarniciones.nombre}}</p> 
+                <p class="fst-italic">{{guarniciones.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{guarniciones.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<!-- Cafeteria -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Cafeteria</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let cafeteria of cafeteriaList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{cafeteria.nombre}}</p> 
+                <p class="fst-italic">{{cafeteria.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{cafeteria.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<!-- Postres -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Postres</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let Postres of postresList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{Postres.nombre}}</p> 
+                <p class="fst-italic">{{Postres.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{Postres.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
+
+<!-- Bebidas -->
+<div class="container-fluid shadow-sm p-3 mb-2">
+    <div class="cont">
+        <img src="./assets/iso-45x41.png">
+        <h2 class="display-6 text-center p-4">Bebidas</h2>
+        <img src="./assets/iso-45x41.png" style="transform: rotate(180deg);">
+    </div>
+    <div class="container p-3">
+        <div class="row align-items-center" *ngFor="let Bebidas of bebidasList">
+            <div class="col-auto">
+                <p class="fw-semibold item">{{Bebidas.nombre}}</p> 
+                <p class="fst-italic">{{Bebidas.descripcion}}</p>
+            </div>
+            <div class="col text-end">
+                <p class="fw-semibold">${{Bebidas.precio}}</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+</div>
