@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+#tag {
+    padding-top: 100px;
+
+}
+
+h2 {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.cont {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: underline;
+
+
+}
+
+.cont img {
+    width: 30px;
+}
+
+.display-3 {
+    font-family: 'Comforter Brush', cursive;
+}
+
+#AcercaDe img {
+    width: 25px;
+
+}
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#empanadas {
+    border-top: 1px solid #85754E;
+    border-bottom: 1px solid #85754E;
+    border-left: 1px solid #85754E;
+    border-right: 1px solid #85754E;
+}

@@ -7,8 +7,7 @@ import { DataService } from '../service/dataservice.service';
   styleUrls: ['./footer.component.css']
 })
 export class FooterComponent implements OnInit {
-  myData:any
-
+  myData: any;
   constructor(private datosData: DataService) { }
 
   ngOnInit(): void {

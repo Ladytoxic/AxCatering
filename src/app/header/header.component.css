@@ -1,12 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
 header {
     height: 200px;
     background-color: #85754E;
     background-image: url(../../assets/Alexeos.png);
     background-repeat: no-repeat;
-    background-position:bottom;   
-}
-header.container {
-    background-color: aliceblue;
+    background-position:bottom;
+    
+
 }
 
 * {
@@ -15,4 +16,7 @@ header.container {
     justify-content: center;
     display: block;
     background-color: #85754E;
+}
+.display-1 {
+    font-family: 'Comforter Brush', cursive;
 }

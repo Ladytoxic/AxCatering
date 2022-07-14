@@ -1,0 +1,477 @@
+{
+    "titulo": "Ax' Catering",
+    "acercaDe": "Se baten las claras de huevo a punto de nieve, se lo mezcla con el almíbar, y se lo hornea unos 20 minutos aproximadamente, hasta tener terminado ese pequeño pastel de forma ahovada llamado merengue, que lo vamos a dividir en dos mitades: la mitad inferior, o hemimerengue inferior, la podemos cubrir con un poco de mermelada de fruta, o crema Chantilly, y la mitad superior, o hemimerengue superior, o ut supra hemimerengue, la podemos decorar con una pequeña fruta, por ejemplo una sandía, en la parte de arriba...",
+    "cafeteria": [
+        {
+            "nombre": "Expresso",
+            "descripcion": null,
+            "precio": 150
+        },
+        {
+            "nombre": "Machatto",
+            "descripcion": null,
+            "precio": 200
+        },
+        {
+            "nombre": "Cortado",
+            "descripcion": null,
+            "precio": 200
+        },
+        {
+            "nombre": "Lagrima",
+            "descripcion": null,
+            "precio": 200
+        },
+        {
+            "nombre": "Café doble",
+            "descripcion": null,
+            "precio": 250
+        },
+        {
+            "nombre": "Café con Leche",
+            "descripcion": null,
+            "precio": 250
+        },
+        {
+            "nombre": "Capuchino",
+            "descripcion": null,
+            "precio": 300
+        },
+        {
+            "nombre": "Submarino",
+            "descripcion": null,
+            "precio": 350
+        },
+        {
+            "nombre": "Chocolatada",
+            "descripcion": null,
+            "precio": 350
+        },
+        {
+            "nombre": "Limonada",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Frapuchino",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Milkshake",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Licuado",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Exprimido",
+            "descripcion": null,
+            "precio": 450
+        }
+    ],
+    "dulce_salado": [
+        {
+            "nombre": "Medialuna",
+            "descripcion": null,
+            "precio": 80
+        },
+        {
+            "nombre": "Medialuna con Jamón y Queso",
+            "descripcion": null,
+            "precio": 180
+        },
+        {
+            "nombre": "Tostadas Mermelada",
+            "descripcion": null,
+            "precio": 350
+        },
+        {
+            "nombre": "Tostado de Jamón y Queso",
+            "descripcion": null,
+            "precio": 450
+        }
+    ],
+    "postres": [
+        {
+            "nombre": "Ensalda de Fruta",
+            "descripcion": null,
+            "precio": 300
+        },
+        {
+            "nombre": "Bocha de Helado",
+            "descripcion": null,
+            "precio": 300
+        },
+        {
+            "nombre": "Flan con Adicional",
+            "descripcion": null,
+            "precio": 350
+        },
+        {
+            "nombre": "Waffles ",
+            "descripcion": null,
+            "precio": 350
+        },
+        {
+            "nombre": "Creppes de Manzana",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Panqueque con Dulc. de L",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Chocotorta",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Lemon Pie",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Tarta de Frutilla",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Waffles con Helado",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Creppes con Helado",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Copa Oreo",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Brownie",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Porcion de Torta",
+            "descripcion": null,
+            "precio": 600
+        }
+    ],
+    "entradas": [
+
+        {
+            "nombre": "Sopa",
+            "descripcion": "Calabaza, Arveja",
+            "precio": 450
+        },
+        {
+            "nombre": "Omelet",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Rabas",
+            "descripcion": null,
+            "precio": 1400
+        }
+
+    ],
+    "empanadas": [
+        {
+            "nombre": "Empanadas",
+            "precio": 160
+        },
+        {
+            "nombre": "Carne cortada a cuchillo",
+            "precio": 160
+        },
+        {
+            "nombre": "Pollo",
+            "precio": 160
+        },
+        {
+            "nombre": "Verdura",
+            "precio": 160
+        },
+        {
+            "nombre": "Jamón y queso",
+            "precio": 160
+        },
+        {
+            "nombre": "Cebolla y Muzzarella",
+            "precio": 160
+        },
+        {
+            "nombre": "Capresse",
+            "precio": 160
+        }
+    ],
+    "pizzas": [
+        {
+            "nombre": "Fugazzetta",
+            "descripcion": null,
+            "precio": 800
+        },
+        {
+            "nombre": "Pizza Muzzarella",
+            "descripcion": null,
+            "precio": 900
+        },
+        {
+            "nombre": "Pizza Napolitana",
+            "descripcion": null,
+            "precio": 1200
+        },
+        {
+            "nombre": "Pizza Calabresa",
+            "descripcion": null,
+            "precio": 1200
+        },
+        {
+            "nombre": "Pizza Jamón y Morrón",
+            "descripcion": null,
+            "precio": 1200
+        },
+        {
+            "nombre": "Pizza Rúcula y Parmesano",
+            "descripcion": null,
+            "precio": 1200
+        },
+        {
+            "nombre": "Pizza Salchipizza",
+            "descripcion": null,
+            "precio": 1200
+        }
+    ],
+    "platos_principales": [
+        {
+            "nombre": "Calabaza",
+            "descripcion": null,
+            "precio": 650
+        },
+        {
+            "nombre": "Tarta de Jamón y queso",
+            "descripcion": null,
+            "precio": 650
+        },
+        {
+            "nombre": "Hamburguesa Simple",
+            "descripcion": null,
+            "precio": 700
+        },
+        {
+            "nombre": "Ensalada César",
+            "descripcion": "Pollo salteado, Lechuga, croûtons, Salsa César",
+            "precio": 800
+        },
+        {
+            "nombre": "Lomito en Sándwich Completo",
+            "descripcion": null,
+            "precio": 900
+        },
+        {
+            "nombre": "Milanesa con Guarnición",
+            "descripcion": "Pollo y de Ternera",
+            "precio": 950
+        },
+        {
+            "nombre": "Pollo a la Mostaza con Guarnición",
+            "descripcion": null,
+            "precio": 950
+        },
+        {
+            "nombre": "Milanesa Napolitana con Guarnición",
+            "descripcion": "Pollo y de Ternera",
+            "precio": 1100
+        },
+        {
+            "nombre": "Pechuga Rellena",
+            "descripcion": null,
+            "precio": 1200
+        },
+        {
+            "nombre": "Bondiola a la Barbacoa",
+            "descripcion": null,
+            "precio": 1300
+        },
+        {
+            "nombre": "Bife de chorizo con guarnición",
+            "descripcion": null,
+            "precio": 1500
+        },
+        {
+            "nombre": "Entraña con Guarnición",
+            "descripcion": null,
+            "precio": 1600
+        },
+        {
+            "nombre": "Lomo con Guarnición y Salsa",
+            "descripcion": null,
+            "precio": 1600
+        },
+        {
+            "nombre": "Salmon con Guarnición",
+            "descripcion": null,
+            "precio": 1700
+        }
+    ],
+    "porciones": [
+        {
+            "nombre": "Pure de Papas",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Pure de Calabaza ",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Puré Mixto",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Papas Fritas",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Papas Rusticas",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Ensalada 2\/3 Gustos",
+            "descripcion": null,
+            "precio": 450
+        },
+        {
+            "nombre": "Papas con Cheddar",
+            "descripcion": null,
+            "precio": 600
+        },
+        {
+            "nombre": "Papas con Cheddar y Bacón ",
+            "descripcion": null,
+            "precio": 750
+        }
+    ],
+    "adicionales": [
+        {
+            "nombre": "Huevo Frito",
+            "precio": 100
+        },
+        {
+            "nombre": "Adicional Cheddar ",
+            "precio": 150
+        }
+    ],
+    "pastas": [
+        {
+            "nombre": "Tagliatelle",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Ñoquis",
+            "descripcion": null,
+            "precio": 700
+        },
+        {
+            "nombre": "Sorrentinos",
+            "descripcion": null,
+            "precio": 800
+        },
+        {
+            "nombre": "Ravioles",
+            "descripcion": null,
+            "precio": 800
+        }
+    ],
+    "salsas": [
+        {
+            "nombre": "Filetto",
+            "descripcion": "La tradicional salsa de tomates con un toque de nuestros Chef."
+        },
+        {
+            "nombre": "Crema",
+            "descripcion": "Una salsita suave a base de crema de leche."
+        },
+        {
+            "nombre": "Cuatro Quesos",
+            "descripcion": "Deliciosa Salsa crema a base de quesos selecionados."
+        },
+        {
+            "nombre": "Bolognesa",
+            "descripcion": "Trocitos de carne de ternera con salsa de tomates."
+        },
+        {
+            "nombre": "Pesto",
+            "descripcion": "Salsa de albahaca fresca, un toque de oliva y nueces picadas."
+        }
+    ],
+    "bebidas": [
+        {
+            "nombre": "Agua Chica",
+            "precio": 180
+        },
+        {
+            "nombre": "Agua Saborizada Chica",
+            "precio": 180
+        },
+        {
+            "nombre": "Gaseosa (Linea Coca-Cola) Chica",
+            "precio": 200
+        },
+        {
+            "nombre": "Agua Grande",
+            "precio": 250
+        },
+        {
+            "nombre": "Sprite Grande",
+            "precio": 300
+        },
+        {
+            "nombre": "Coca-Cola Grande",
+            "precio": 300
+        }
+    ],
+    "cervezas_vinos": [
+        {
+            "nombre": "Lata de Cerveza",
+            "descripcion": null,
+            "precio": 400
+        },
+        {
+            "nombre": "Cerveza de Litro",
+            "descripcion": null,
+            "precio": 500
+        },
+        {
+            "nombre": "Alma Mora",
+            "descripcion": null,
+            "precio": 900
+        },
+        {
+            "nombre": "Cosecha",
+            "descripcion": null,
+            "precio": 900
+        },
+        {
+            "nombre": "Emilia",
+            "descripcion": null,
+            "precio": 1200
+        }
+    ]
+}
