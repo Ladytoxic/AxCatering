@@ -10,6 +10,6 @@ export class DataService {
   constructor(private http:HttpClient) { }
 
   obtenerDatos():Observable<any>{
-    return this.http.get('./assets/data.json');
+    return this.http.get('https://raw.githubusercontent.com/Ladytoxic/API/main/data_axCatering.json');
   }
 }
