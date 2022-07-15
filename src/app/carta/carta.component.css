@@ -13,7 +13,6 @@ h2 {
     padding-bottom: 10px;
 
 }
-
 .cont {
     justify-content: center;
     align-items: center;
@@ -41,7 +40,7 @@ h3 {
     padding-bottom: 10px;
 }
 
-#empanadas {
+#caja {
     border-top: 1px solid #85754E;
     border-bottom: 1px solid #85754E;
     border-left: 1px solid #85754E;
